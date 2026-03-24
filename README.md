@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m an IoT Engineer with a strong focus on embedded systems, smart devices, and connected technologies. I enjoy building end-to-end systems that bridge hardware and software, from sensors and microcontrollers to communication protocols and data flow.<br><br>My work involves microcontrollers such as ESP32, along with sensors, actuators, and wireless technologies, to develop practical and reliable IoT solutions. I care about clean, efficient embedded code and understanding how systems behave in real-world conditions, not just in theory.<br><br>I’m naturally curious, detail-oriented, and driven by problem-solving. Most of my learning comes from hands-on projects, experimentation, and iteration.<br><br>This GitHub showcases my projects, experiments, and ongoing work in IoT, embedded systems, automation, and smart connected devices.
+I’m an IoT Engineer with a strong focus on embedded systems, smart devices, and connected technologies. I care about clean, efficient embedded code and understanding how systems behave in real-world conditions, not just in theory.<br><br>I’m naturally curious, detail-oriented. Most of my learning comes from hands-on projects, experimentation, and iteration.<br><br>This GitHub showcases my projects, experiments, and ongoing work in IoT, embedded systems, automation, and smart connected devices.
 
 
 ## 🌐 Socials:
@@ -14,9 +14,6 @@ I’m an IoT Engineer with a strong focus on embedded systems, smart devices, an
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=alilibenemna&theme=date_night&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=alilibenemna&icon=4&color=2)](https://visitcount.itsvg.in)
